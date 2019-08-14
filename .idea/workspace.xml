@@ -170,6 +170,12 @@
       <change afterPath="$PROJECT_DIR$/../WebJars - Web Libraries in Jarsmave_files/select2-bootstrap.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebJars - Web Libraries in Jarsmave_files/select2.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../WebJars - Web Libraries in Jarsmave_files/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/ContactAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/PersonBackground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home/addCitizen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home/brouillon.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cheese-mvc" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cheese-mvc-persistent" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cheesedatabase" afterDir="false" />
@@ -859,6 +865,7 @@
       <change beforePath="$PROJECT_DIR$/../Brouillon build-a-blog/mytestbb.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Fireside-Story" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hello Flask :: Unit 2: Web Fundamentals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ass13.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assig13.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assignment8.py" beforeDir="false" />
@@ -1045,9 +1052,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Thymeleaf" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="Thymeleaf" />
       </list>
     </option>
   </component>
